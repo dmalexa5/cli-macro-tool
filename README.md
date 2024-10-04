@@ -36,7 +36,7 @@ Before this project, each individual routing could over upwards of 12 minutes fo
 
 
 What's different':
-* Instead of collecting usages, cell codes, and locators from 3 different spreadsheets, everything is compiled into `Plant 24 Routing Calculator`.
+* Instead of collecting usages, cell codes, and locators from 3 different spreadsheets, everything is compiled into `Plant 24 Routing Calculator`. (Not included in this repo)
 * Usages can be entered in one line, instead of wasting time clicking around different oracle apps.
 
 Not all routings can be entered with this tool. The vast majority, however, are simple piece parts and weldments that can (and should) be routed and located blazingly fast.
