@@ -172,7 +172,7 @@ Weldments are the same. Getting the usages is slightly more difficult.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Although this tool is very specific to one use case, any contributions you make are greatly appreciated! (Hint: future interns...)
+Although this tool is very specific to one use case, any contributions you make are greatly appreciated! (Hint: future interns and co-ops...)
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star!
