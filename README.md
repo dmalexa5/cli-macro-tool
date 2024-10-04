@@ -108,7 +108,7 @@ Commands:
     - stop
 ```
 
-Say you are routing a standard piece part through the fabrication shop: (_Note: most of this information is proprietary and has been erased._)
+Say you are routing a standard piece part through the fabrication shop: (_Note: most of the information on this drawing is proprietary and has been erased._)
 
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/example.png" alt="Engineering drawing" width="700" height="450">
