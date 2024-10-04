@@ -124,6 +124,7 @@ Say you are routing a standard piece part through the fabrication shop: (_Note: 
 
 Follow the prompts:
 ```
+ >> part -le
 Enter MACHINIST usage for cell 250001: 0.1              Example usage
 Enter MACH OPER usage for cell EDGEGRIND: 0.1           Example usage
 Enter part number: 123456789                            Example 9-digit PN
