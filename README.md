@@ -46,7 +46,7 @@ Not all routings can be entered with this tool. The vast majority, however, are 
 
 ## Installation
 
-_For co-ops/interns: It is recommended that you use `dist/main.exe`. If you do want to edit and/or build the source code:_
+_For co-ops/interns: It is recommended that you download and run `dist/main.exe`. However, if you do want to edit and/or build the source code:_
 
 1. Clone the repo
    ```sh
