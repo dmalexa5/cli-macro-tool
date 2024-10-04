@@ -46,7 +46,7 @@ Not all routings can be entered with this tool. The vast majority, however, are 
 
 ## Installation
 
-_It is recommended that you use_ `dist/main.exe`
+_For co-ops/interns: It is recommended that you use_ `dist/main.exe`. If you do want to edit and/or build the source code:
 
 1. Clone the repo
    ```sh
@@ -118,7 +118,7 @@ Say you are routing a standard piece part through the fabrication shop: (_Note: 
 
 ### Enter the circled information into the `Plant 24 Routing Calculator`
 
-- In this case, there should be 2 usages: 1 for lasers and one for edgegrind
+- In this case, there should be 2 usages: 1 for lasers and 1 for edgegrind
 
 ### Next, enter the part command with lasers + edgegrind flags: `part -le`
 
