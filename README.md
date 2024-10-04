@@ -1,39 +1,13 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT HEADER -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/screenshot.png" alt="Logo" width="700" height="300">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
 </div>
 
 
@@ -226,6 +200,8 @@ David Alexander - [@dmalexa5](https://github.com/dmalexa5/)
 Project Link - [https://github.com/dmalexa5/cli-macro-tool](https://github.com/dmalexa5/cli-macro-tool)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+README template used from: [https://github.com/othneildrew/Best-README-Template/tree/main](https://github.com/othneildrew/Best-README-Template/tree/main)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
