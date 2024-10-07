@@ -1,39 +1,13 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-<!-- PROJECT LOGO -->
+<!-- PROJECT HEADER -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/screenshot.png" alt="Logo" width="700" height="300">
   </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
 </div>
 
 
@@ -62,7 +36,7 @@ Before this project, each individual routing could over upwards of 12 minutes fo
 
 
 What's different':
-* Instead of collecting usages, cell codes, and locators from 3 different spreadsheets, everything is compiled into `Plant 24 Routing Calculator`.
+* Instead of collecting usages, cell codes, and locators from 3 different spreadsheets, everything is compiled into `Plant 24 Routing Calculator`. (Not included in this repo)
 * Usages can be entered in one line, instead of wasting time clicking around different oracle apps.
 
 Not all routings can be entered with this tool. The vast majority, however, are simple piece parts and weldments that can (and should) be routed and located blazingly fast.
@@ -72,7 +46,7 @@ Not all routings can be entered with this tool. The vast majority, however, are 
 
 ## Installation
 
-_It is recommended that you use_ `dist/main.exe`
+_For co-ops/interns: It is recommended that you download and run `dist/main.exe`. However, if you do want to edit and/or build the source code:_
 
 1. Clone the repo
    ```sh
@@ -134,7 +108,7 @@ Commands:
     - stop
 ```
 
-Say you are routing a standard piece part through the fabrication shop: (_Note: most of this information is proprietary and has been erased._)
+Say you are routing a standard piece part through the fabrication shop: (_Note: most of the information on this drawing is proprietary and has been erased._)
 
 <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/example.png" alt="Engineering drawing" width="700" height="450">
@@ -144,12 +118,13 @@ Say you are routing a standard piece part through the fabrication shop: (_Note: 
 
 ### Enter the circled information into the `Plant 24 Routing Calculator`
 
-- In this case, there should be 2 usages: 1 for lasers and one for edgegrind
+- In this case, there should be 2 usages: 1 for lasers and 1 for edgegrind
 
 ### Next, enter the part command with lasers + edgegrind flags: `part -le`
 
 Follow the prompts:
 ```
+ >> part -le
 Enter MACHINIST usage for cell 250001: 0.1              Example usage
 Enter MACH OPER usage for cell EDGEGRIND: 0.1           Example usage
 Enter part number: 123456789                            Example 9-digit PN
@@ -197,7 +172,7 @@ Weldments are the same. Getting the usages is slightly more difficult.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Although this tool is very specific to one use case, any contributions you make are greatly appreciated! (Hint: future interns...)
+Although this tool is very specific to one use case, any contributions you make are greatly appreciated! (Hint: future interns and co-ops...)
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star!
@@ -226,6 +201,8 @@ David Alexander - [@dmalexa5](https://github.com/dmalexa5/)
 Project Link - [https://github.com/dmalexa5/cli-macro-tool](https://github.com/dmalexa5/cli-macro-tool)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+README template used from: [https://github.com/othneildrew/Best-README-Template/tree/main](https://github.com/othneildrew/Best-README-Template/tree/main)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
