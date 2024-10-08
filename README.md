@@ -5,9 +5,7 @@
 <!-- PROJECT HEADER -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/screenshot.png" alt="Logo" width="700" height="300">
-  </a>
 </div>
 
 
@@ -35,7 +33,7 @@ Before this project, each individual routing could over upwards of 12 minutes fo
 **Now, it takes 50 seconds for an experienced engineer and under 3 minutes for someone new.**
 
 
-What's different':
+What's different:
 * Instead of collecting usages, cell codes, and locators from 3 different spreadsheets, everything is compiled into `Plant 24 Routing Calculator`. (Not included in this repo)
 * Usages can be entered in one line, instead of wasting time clicking around different oracle apps.
 
